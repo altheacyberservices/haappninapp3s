@@ -4,10 +4,12 @@ This is a phishing page we found on Github and decided to fork it here in order 
 
 IMPORTANT: We forked this with the sole purpose of studying this page
 
-We also filed an abuse report to Github. We suggest you to do the same with the original repo.
+Forked originally from  bigmansweetsbakers/haappninapp3s. The user bigmansweetsbakers has morer phishing pages in his repo. Left the original repo name here for documentation purposes as we hope that Github closes bigmansweetsbakers account.
+
+We also filed an abuse report to Github. We suggest you to do the same with the original repo ( bigmansweetsbakers).
 
 
-Analysis so far:
+# Analysis so far:
 
 Page pulls various resorces from google storage API
 

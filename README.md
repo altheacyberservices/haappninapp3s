@@ -5,7 +5,7 @@
 
 This is a phishing page we found on Github and decided to fork it here in order to see how the phisher works
 
->>>>>>>>>>>>>>>  IMPORTANT: We forked this with the sole purpose of studying it. <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ IMPORTANT: We forked this with the sole purpose of studying it.
 
 Forked originally from  bigmansweetsbakers/haappninapp3s. The user bigmansweetsbakers has more phishing pages in his repo. Left the original repo name here for documentation purposes as we hope that Github closes bigmansweetsbakers account.
 

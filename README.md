@@ -19,3 +19,5 @@ Page is very convincing and well made.
 
 Code is nicely indented.
 
+Following to the user and password data collection, the phisher shows a covid-19 related document property of JP Morgan
+
